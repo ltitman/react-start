@@ -1,5 +1,6 @@
 import React from 'react';
+import './app.less';
 
 export default function App() {
-  return <div>hello world!</div>;
+  return <div>hello world</div>;
 }

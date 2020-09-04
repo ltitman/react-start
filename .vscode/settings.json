@@ -45,5 +45,14 @@
   "[scss]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "cSpell.words": ["stylelint"]
+  "cSpell.words": [
+    "corejs",
+    "devtool",
+    "flexbox",
+    "flexbugs",
+    "nodir",
+    "purgecss",
+    "stylelint",
+    "webpackbar"
+  ]
 }
